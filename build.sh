@@ -30,4 +30,4 @@ helm package charts/nexus-repository-manager --destination docs
 
 # index the existing tgz archives
 cd docs
-helm repo index . --url https://sonatype.github.io/helm3-charts
+helm repo index . --url https://summittech-ca.github.io/nexus-helm3-charts
